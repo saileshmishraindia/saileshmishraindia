@@ -59,12 +59,12 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 
 Some of the major projects that i have done in my academic career are :
 - [**1. APB PROTOCOL**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
-    -Developed a UVM-based testbench for APB Protocol verification.
--Designed and integrated UVM components (agents, drivers, monitors, scoreboards, coverage
+    - Developed a UVM-based testbench for APB Protocol verification.
+- Designed and integrated UVM components (agents, drivers, monitors, scoreboards, coverage
 models).
--Generated randomized stimulus in SystemVerilog for read/write transactions. 
--Performed functional and code coverage analysis to identify corner cases. 
--Debugged RTL issues by analyzing test failures and refining the testbench.
+- Generated randomized stimulus in SystemVerilog for read/write transactions. 
+- Performed functional and code coverage analysis to identify corner cases. 
+- Debugged RTL issues by analyzing test failures and refining the testbench.
 
   
 - [**2. IoT Based Smart Hydroponics System**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
@@ -76,22 +76,22 @@ models).
 
 
 - [**3. CUBESat**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
-   -Setting up LoRa communication on ESP32 for reliable data links.
--Designing and simulating antennas with practical tuning using a VNA. 
--Building the ground station using TinyGS and programming ESP32 for satellite data reception.
--Designing and tuning a custom antenna for optimal ground station performance.
+   - Setting up LoRa communication on ESP32 for reliable data links.
+- Designing and simulating antennas with practical tuning using a VNA. 
+- Building the ground station using TinyGS and programming ESP32 for satellite data reception.
+- Designing and tuning a custom antenna for optimal ground station performance.
 
   
 - [**4. FSM Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
-    -Developed a Traffic Lights Controller using Verilog.
--Implemented a Vending Machine using Verilog. 
--Designed an Electronic Lock System using Verilog.
+    - Developed a Traffic Lights Controller using Verilog.
+- Implemented a Vending Machine using Verilog. 
+- Designed an Electronic Lock System using Verilog.
 
 
 - [**5. ALU Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
-    -Designed a 1-Bit ALU using CircuitVerse.
--Expanded the design to a 4-Bit ALU using CircuitVerse. 
--Further extended to an 8-Bit ALU using CircuitVerse.
+    - Designed a 1-Bit ALU using CircuitVerse.
+- Expanded the design to a 4-Bit ALU using CircuitVerse. 
+- Further extended to an 8-Bit ALU using CircuitVerse.
 
 
 
