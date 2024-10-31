@@ -63,8 +63,10 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 | 2023-24  | Silicon University, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | O Grade |
 | 2024-25  | Silicon University, Bhubaneswar | DIGITAL SYSTEM DESIGN (LM70 Temperature Monitor) | 
 
-### Projects
-Some of the major projects that i have done in my academic carrer are :
+### Projects & Designs
+
+Some of the projects that i have done in my academic career are :
+
 - [**16 byte SRAM design**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
     - Designed a 16-byte SRAM (Static Random Access Memory) using the 180nm technology node, employing a full custom approach.
     - This project is a comprehensive training initiative completed during my internship. It involved the entire process from design and characterization to layout, providing me with hands-on experience in full 
