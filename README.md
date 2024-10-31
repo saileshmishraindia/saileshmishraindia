@@ -19,7 +19,7 @@ With a commitment to continuous learning and adaptation, I aim to be an exemplar
 My multifaceted approach combines technical expertise with strong problem-solving skills, making me an asset in tackling complex engineering challenges and pushing the frontiers of what's possible in integrated circuit design.
 
 
-### My Journey
+### My Academic Journey in Detail : - 
 - Started my academic career in IoT during my first year as an electronics student.
 - Transitioned to VLSI in my second year.
 - Completed a "Digital Design" course, gaining expertise in HDL, digital design, and custom layouts.
