@@ -26,7 +26,7 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 - During my **Second year**, I significantly advanced my VLSI design capabilities by immersing myself in hardware description languages and digital design. I developed proficiency in Verilog HDL, implementing various digital circuits from scratch. My work included designing complex sequential circuits like custom registers, counters, and frequency dividers.I leveraged multiple tools including EDA Playground for HDL simulation, CircuitVerse for digital design, and virtualization platforms like Oracle VM and VirtualBox for EDA tool deployment. This comprehensive practical experience strengthened my foundation in digital design and VLSI.
 
 
-- During my **Third Year**, I specialized in Digital System Verification, focusing on SystemVerilog implementation. A significant achievement was developing a comprehensive testbench for APB protocol verification, where I successfully validated both master and slave interfaces. I implemented advanced SystemVerilog concepts including events, packets, and object-oriented programming features to create robust verification environments. Working with real-world protocols and industry specifications enhanced my understanding of modern verification methodologies."
+- During my **Third Year**, I specialized in Digital System Verification, focusing on SystemVerilog implementation. A significant achievement was developing a comprehensive testbench for APB protocol verification, where I successfully validated both master and slave interfaces. I implemented advanced SystemVerilog concepts including events, packets, and object-oriented programming features to create robust verification environments. Working with real-world protocols and industry specifications enhanced my understanding of modern verification methodologies.
 
 
 - Interned at the Advanced VLSI Lab, SIT in my final year, gaining exposure to:</br>
@@ -60,8 +60,8 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 | ------------- | ------------- | -----  | ----- |
 | 2021-22  | Silicon University, Bhubaneswar  | VLSI FOR BEGINNERS | O Grade |
 | 2022-23  | Silicon University, Bhubaneswar  | VERILOG : FULL CUSTOM APPROACH | O Grade |
-| 2023-24  | Silicon University, Bhubaneswar | DIGITAL SYSTEM VERIFICATION Using SystemVerilog | O Grade |
-| 2024-25  | Silicon University, Bhubaneswar | DIGITAL SYSTEM DESIGN | 
+| 2023-24  | Silicon University, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | O Grade |
+| 2024-25  | Silicon University, Bhubaneswar | DIGITAL SYSTEM DESIGN (LM70 Temperature Monitor) | 
 
 ### Projects
 Some of the major projects that i have done in my academic carrer are :
