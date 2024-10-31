@@ -112,7 +112,7 @@ Some of the major projects that i have done in my academic career are :
 - 📫 How to reach me: [saileshmishraofficial@gmail.com] or (https://www.linkedin.com/in/saileshmishra01)
 
 
-Dear Viewers , Thanks for visiting my profile ! 
+Thanks for visiting my profile ! 
 <!---
 saileshmishraindia/saileshmishraindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
