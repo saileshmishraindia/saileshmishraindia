@@ -23,8 +23,8 @@
 ### Skills
 - **Tools** </br>
   1. Xilinx, Cadence Virtuoso, Calibre, Spectre, Sue2, CppSim
-  2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow, nextpnr etc.          - 
-- **Programming** - C, Python, Verilog(HDL)
+  2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow, Sue2, LTSpice, Oracle VM, EDA etc.          - 
+- **Programming** - C, Python, Verilog(HDL), SystemVerilog(HDL) 
 - **Productivity** - MS Office
 - **Operating System** - Windows, Linux* </br>
 *Currently learning
@@ -33,12 +33,12 @@
 
 | Academic Year  | Instituition  | Course | Grade |
 | ------------- | ------------- | -----  | ----- |
-| 2021-25  | Silicon University, Bhubaneswar  | B.tech(ECE) | 8.00 |
+| 2021-25  | Silicon University, Bhubaneswar  | B.tech (ECE) | 8.00 |
 | 2018-20  | ODM Public School, Bhubaneswar  | Senior Secondary (12th) | 79.20% |
-| 2017-18  | ODM Public School, Bhubaneswar | Secondary | 78% |
+| 2017-18  | ODM Public School, Bhubaneswar | Secondary (10th) | 78% |
 
 
-### Professional Training & Internships
+### Professional Trainings & Internships
 
 | Academic Year  | Location  | Course | Grade |
 | ------------- | ------------- | -----  | ----- |
