@@ -109,7 +109,7 @@ Some of the major projects that i have done in my academic career are :
 -->
 
 ## Contact
-- 📫 How to reach me: [priyansusahoo814@gmail.com] or [LinkedIn](https://www.linkedin.com/in/priyansu-sahoo/)
+- 📫 How to reach me: [saileshmishraofficial@gmail.com] or [LinkedIn](https://www.linkedin.com/in/saileshmishra01)
 
 
 Thanks for visiting my profile! 
