@@ -2,7 +2,7 @@
 
 - 🎓 **VLSI Trainee** @ Sevya Multimedia, Advanced VLSI Lab, Silicon University
 - 📘 **Education**: B.Tech in Electronics and Communication Engineering (ECE), 2021-2025, Silicon University
-- 🌍 **Location**: Odisha, Bhubaneswar
+- 🌍 **Location**: [Silicon University](https://www.linkedin.com/school/silicontech-bbs/), Bhubaneswar, Odisha 751024.
 - 📫 **Email**: [saileshmishraofficial@gmail.com](mailto:saileshmishra164@gmail.com)
 - 💼 **LinkedIn**: [in/saileshmishra01](https://www.linkedin.com/in/saileshmishra01/)
 - 💾 **GitHub**: https://github.com/saileshmishraindia
