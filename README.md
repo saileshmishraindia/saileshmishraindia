@@ -58,6 +58,7 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 ### Projects & Designs
 
 Some of the major projects that i have done in my academic career are :
+
   [**1. APB PROTOCOL**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
 
 - Developed a UVM-based testbench for APB Protocol verification.
