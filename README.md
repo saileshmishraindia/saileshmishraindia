@@ -19,7 +19,7 @@ With a commitment to continuous learning and adaptation, I aim to be an exemplar
 My multifaceted approach combines technical expertise with strong problem-solving skills, making me an asset in tackling complex engineering challenges and pushing the frontiers of what's possible in integrated circuit design.
 
 
-### My Academic Journey 
+### My Engineering Journey 
 - In my first year, I built a strong electronics foundation through both theory and practical application. I mastered basic electronic components and Network theorems, which helped me understand circuit behavior and analysis. I implemented Boolean logic circuits and simulated analog circuits using industry tools like LT Spice and EDA Playground. This hands-on experience with both hardware and simulation tools confirmed my interest in VLSI design and set the stage for my advanced coursework.
 
 
@@ -29,10 +29,6 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 - During my Third Year, I specialized in Digital System Verification, focusing on SystemVerilog implementation. A significant achievement was developing a comprehensive testbench for APB protocol verification, where I successfully validated both master and slave interfaces. I implemented advanced SystemVerilog concepts including events, packets, and object-oriented programming features to create robust verification environments. Working with real-world protocols and industry specifications enhanced my understanding of modern verification methodologies."
 
 
-
-- Transitioned to VLSI in my second year.
-- Completed a "Digital Design" course, gaining expertise in HDL, digital design, and custom layouts.
-- In my third year, completed a "Digital Verification" course, learning about verification environments and SystemVerilog.
 - Interned at the Advanced VLSI Lab, SIT in my final year, gaining exposure to:</br>
      - Cell characterization
      - Standard cell layout
