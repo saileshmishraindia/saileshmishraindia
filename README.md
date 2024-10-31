@@ -67,6 +67,8 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 
 Some of the projects that i have done in my academic career are :
 
+- 
+
 - [**16 byte SRAM design**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
     - Designed a 16-byte SRAM (Static Random Access Memory) using the 180nm technology node, employing a full custom approach.
     - This project is a comprehensive training initiative completed during my internship. It involved the entire process from design and characterization to layout, providing me with hands-on experience in full 
