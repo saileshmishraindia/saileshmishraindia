@@ -50,12 +50,12 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 
 ### Professional Trainings & Internships
 
-| Academic Year  | Location  | Course | Grade |
+| Academic Year  | Location/Host  | Course | Grade |
 | ------------- | ------------- | -----  | ----- |
-| 2021-22  | Silicon University, Bhubaneswar  | VLSI FOR BEGINNERS | O Grade |
-| 2022-23  | Silicon University, Bhubaneswar  | VERILOG : FULL CUSTOM APPROACH | O Grade |
-| 2023-24  | Silicon University, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | O Grade |
-| 2024-25  | Silicon University, Bhubaneswar | DIGITAL SYSTEM DESIGN (LM70 Temperature Monitor) | 
+| 2021-22  | Silicon University, Bhubaneswar/VLSI Expert, Noida | VLSI FOR BEGINNERS | O Grade |
+| 2022-23  | Silicon University, Bhubaneswar/VLSI Expert, Noida  | VERILOG : FULL CUSTOM APPROACH | O Grade |
+| 2023-24  | Silicon University & Scaledge, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | O Grade |
+| 2024-25  | Silicon University, Bhubaneswar/Sevya Multimedia | DIGITAL SYSTEM DESIGN (LM70 Temperature Monitor) | 
 
 ### Projects & Designs
 
