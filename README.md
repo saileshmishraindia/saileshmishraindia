@@ -68,7 +68,7 @@ Some of the major projects that i have done in my academic career are :
 - Debugged RTL issues by analyzing test failures and refining the testbench.
 
   
-  [**2. IoT Based Smart Hydroponics System**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
+[**2. IoT Based Smart Hydroponics System**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
 
 - Developed fully automated IoT-integrated hydroponics system using RPi 4B & Python . 
 - Implemented smart NPK reservoir management for nutrient balance.
@@ -77,7 +77,7 @@ Some of the major projects that i have done in my academic career are :
 - Created mobile interface (Blynk App.) for remote system management.
 
 
-  [**3. CUBESat**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
+[**3. CUBESat**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
 
 - Setting up LoRa communication on ESP32 for reliable data links.
 - Designing and simulating antennas with practical tuning using a VNA. 
@@ -85,14 +85,14 @@ Some of the major projects that i have done in my academic career are :
 - Designing and tuning a custom antenna for optimal ground station performance.
 
   
-  [**4. FSM Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
+[**4. FSM Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
 
 - Developed a Traffic Lights Controller using Verilog.
 - Implemented a Vending Machine using Verilog. 
 - Designed an Electronic Lock System using Verilog.
 
 
-  [**5. ALU Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
+[**5. ALU Design**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
 
 - Designed a 1-Bit ALU using CircuitVerse.
 - Expanded the design to a 4-Bit ALU using CircuitVerse. 
