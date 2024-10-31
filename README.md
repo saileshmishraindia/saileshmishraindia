@@ -20,7 +20,7 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 
 
 ### My Engineering Journey 
-- In my **first year**, I built a strong electronics foundation through both theory and practical application. I mastered basic electronic components and Network theorems, which helped me understand circuit behavior and analysis. I implemented Boolean logic circuits and simulated analog circuits using industry tools like LT Spice and EDA Playground. This hands-on experience with both hardware and simulation tools confirmed my interest in VLSI design and set the stage for my advanced coursework.
+- In my **First year**, I built a strong electronics foundation through both theory and practical application. I mastered basic electronic components and Network theorems, which helped me understand circuit behavior and analysis. I implemented Boolean logic circuits and simulated analog circuits using industry tools like LT Spice and EDA Playground. This hands-on experience with both hardware and simulation tools confirmed my interest in VLSI design and set the stage for my advanced coursework.
 
 
 - During my **Second year**, I significantly advanced my VLSI design capabilities by immersing myself in hardware description languages and digital design. I developed proficiency in Verilog HDL, implementing various digital circuits from scratch. My work included designing complex sequential circuits like custom registers, counters, and frequency dividers.I leveraged multiple tools including EDA Playground for HDL simulation, CircuitVerse for digital design, and virtualization platforms like Oracle VM and VirtualBox for EDA tool deployment. This comprehensive practical experience strengthened my foundation in digital design and VLSI.
