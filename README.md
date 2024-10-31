@@ -5,7 +5,7 @@
 - 🌍 **Location**: Odisha, Bhubaneswar
 - 📫 **Email**: [saileshmishraofficial@gmail.com](mailto:saileshmishra164@gmail.com)
 - 💼 **LinkedIn**: [in/saileshmishra01](https://www.linkedin.com/in/saileshmishra01/)
-- 💾 **GitHub**: @saileshmishraindia
+- 💾 **GitHub**: https://github.com/saileshmishraindia 
 
 <!---
 saileshmishraindia/saileshmishraindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
