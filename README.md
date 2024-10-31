@@ -42,7 +42,7 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 ### Education
 
 | Academic Year  | Instituition  | Course | Grade |
-| ------------- | ------------- | -----  | ----- |
+| ------------- | ------------------- | -----  | ----- |
 | 2021-25  | Silicon University, Bhubaneswar  | B.tech (ECE) | 8.00 |
 | 2018-20  | ODM Public School, Bhubaneswar  | Senior Secondary (12th) | 79.20% |
 | 2017-18  | ODM Public School, Bhubaneswar | Secondary (10th) | 78% |
