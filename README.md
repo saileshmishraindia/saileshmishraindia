@@ -5,11 +5,22 @@
 - 🌍 **Location**: Odisha, Bhubaneswar
 - 📫 **Email**: [saileshmishraofficial@gmail.com](mailto:saileshmishra164@gmail.com)
 - 💼 **LinkedIn**: [in/saileshmishra01](https://www.linkedin.com/in/saileshmishra01/)
-- 💾 **GitHub**: https://github.com/saileshmishraindia 
+- 💾 **GitHub**: https://github.com/saileshmishraindia
+
+
+### Profile Summary & Vission
+
+As an innovative Nanotech and VLSI enthusiast, I am a driven Electronics & Communication engineer at the forefront of cutting-edge semiconductor technologies. My passion lies in pushing the boundaries of semiconductor scaling, exploring novel materials and architectures to overcome the limitations of traditional CMOS.
+
+Beyond technical prowess, I am dedicated to personal growth and professional excellence. I consistently seek challenges that expand my skillset and contribute to groundbreaking advancements in the field. My goal is to be a transformative force in the industry, driving innovation that bridges the gap between theoretical nanotechnology and practical VLSI implementation.
+
+With a commitment to continuous learning and adaptation, I aim to be an exemplary leader in the rapidly evolving landscape of electronics and nanotechnology. I thrive on challenges that require synthesizing complex interdisciplinary knowledge, making me an invaluable asset for organizations at the forefront of electronic engineering and nanotechnology convergence.
+
+My multifaceted approach combines technical expertise with strong problem-solving skills, making me an asset in tackling complex engineering challenges and pushing the frontiers of what's possible in integrated circuit design.
 
 
 ### My Journey
-- Started my career in IoT during my first year as an electronics student.
+- Started my academic career in IoT during my first year as an electronics student.
 - Transitioned to VLSI in my second year.
 - Completed a "Digital Design" course, gaining expertise in HDL, digital design, and custom layouts.
 - In my third year, completed a "Digital Verification" course, learning about verification environments and SystemVerilog.
@@ -22,9 +33,9 @@
 
 ### Skills
 - **Tools** </br>
-  1. Xilinx, Cadence Virtuoso, Calibre, Spectre, Sue2, CppSim
-  2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow, Sue2, LTSpice, Oracle VM, EDA etc.          - 
-- **Programming** - C, Python, Verilog(HDL), SystemVerilog(HDL) 
+  1. Xilinx ISE, Sue2, CppSim, LTSpice, EDA, Oracle VM.
+  2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow.
+- **Programming** - C, Python, Verilog (HDL), SystemVerilog (HDL). 
 - **Productivity** - MS Office
 - **Operating System** - Windows, Linux* </br>
 *Currently learning
