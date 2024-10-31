@@ -28,14 +28,6 @@ My multifaceted approach combines technical expertise with strong problem-solvin
 
 - During my **Third Year**, I specialized in Digital System Verification, focusing on SystemVerilog implementation. A significant achievement was developing a comprehensive testbench for APB protocol verification, where I successfully validated both master and slave interfaces. I implemented advanced SystemVerilog concepts including events, packets, and object-oriented programming features to create robust verification environments. Working with real-world protocols and industry specifications enhanced my understanding of modern verification methodologies.
 
-
-- Interned at the Advanced VLSI Lab, SIT in my final year, gaining exposure to:</br>
-     - Cell characterization
-     - Standard cell layout
-     - PDK training
-- Worked with FPGAs, including the Spartan6.
-- Conducted a workshop on RTL to GDS flow using open-source tools for juniors.
-
 ### Skills
 - **Tools** </br>
   1. Xilinx ISE, Sue2, CppSim, LTSpice, EDA, Oracle VM.
