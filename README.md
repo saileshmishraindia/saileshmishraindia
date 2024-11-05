@@ -8,7 +8,7 @@
 - 💾 **GitHub**: https://github.com/saileshmishraindia
 
 
-### Profile Summary & Vission
+### Profile Summary & Vision
 
 As an innovative Nanotech and VLSI enthusiast, I am a driven Electronics & Communication engineer at the forefront of cutting-edge semiconductor technologies. My passion lies in pushing the boundaries of semiconductor scaling, exploring novel materials and architectures to overcome the limitations of traditional CMOS.
 
