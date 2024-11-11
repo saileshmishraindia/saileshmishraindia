@@ -10,13 +10,13 @@
 
 ### Profile Summary & Vision
 
-As an innovative Nanotech and VLSI enthusiast, I am a driven Electronics & Communication engineer at the forefront of cutting-edge semiconductor technologies. My passion lies in pushing the boundaries of semiconductor scaling, exploring novel materials and architectures to overcome the limitations of traditional CMOS.
+* As an innovative Nanotech and VLSI enthusiast, I am a driven Electronics & Communication engineer at the forefront of cutting-edge semiconductor technologies. My passion lies in pushing the boundaries of semiconductor scaling, exploring novel materials and architectures to overcome the limitations of traditional CMOS.
 
-Beyond technical prowess, I am dedicated to personal growth and professional excellence. I consistently seek challenges that expand my skillset and contribute to groundbreaking advancements in the field. My goal is to be a transformative force in the industry, driving innovation that bridges the gap between theoretical nanotechnology and practical VLSI implementation.
+* Beyond technical prowess, I am dedicated to personal growth and professional excellence. I consistently seek challenges that expand my skillset and contribute to groundbreaking advancements in the field. My goal is to be a transformative force in the industry, driving innovation that bridges the gap between theoretical nanotechnology and practical VLSI implementation.
 
-With a commitment to continuous learning and adaptation, I aim to be an exemplary leader in the rapidly evolving landscape of electronics and nanotechnology. I thrive on challenges that require synthesizing complex interdisciplinary knowledge, making me an invaluable asset for organizations at the forefront of electronic engineering and nanotechnology convergence.
+* With a commitment to continuous learning and adaptation, I aim to be an exemplary leader in the rapidly evolving landscape of electronics and nanotechnology. I thrive on challenges that require synthesizing complex interdisciplinary knowledge, making me an invaluable asset for organizations at the forefront of electronic engineering and nanotechnology convergence.
 
-My multifaceted approach combines technical expertise with strong problem-solving skills, making me an asset in tackling complex engineering challenges and pushing the frontiers of what's possible in integrated circuit design.
+* My multifaceted approach combines technical expertise with strong problem-solving skills, making me an asset in tackling complex engineering challenges and pushing the frontiers of what's possible in integrated circuit design.
 
 
 ### My Engineering Journey 
