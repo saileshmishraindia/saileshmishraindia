@@ -52,9 +52,9 @@
 
 | Academic Year  | Location/Host  | Course | Grade |
 | ------------- | ---------------- | -----  | ----- |
-| 2021-22  | Silicon University & VLSI Expert, Bhubaneswar | VLSI FOR BEGINNERS | O Grade (OUTSTANDING) |
-| 2022-23  | Silicon University & VLSI Expert, Bhubaneswar | VERILOG : FULL CUSTOM APPROACH | O Grade (OUTSTANDING) |
-| 2023-24  | Silicon University & Scaledge, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | O Grade (OUTSTANDING) |
+| 2021-22  | Silicon University & VLSI Expert, Bhubaneswar | VLSI FOR BEGINNERS | 'O' Grade (OUTSTANDING) |
+| 2022-23  | Silicon University & VLSI Expert, Bhubaneswar | VERILOG : FULL CUSTOM APPROACH | 'O' Grade (OUTSTANDING) |
+| 2023-24  | Silicon University & Scaledge, Bhubaneswar | SYSTEM VERILOG : DIGITAL SYSTEM VERIFICATION | 'O' Grade (OUTSTANDING) |
 | 2024-25  | Silicon University & Sevya Multimedia (Advance VLSI Lab), Bhubaneswar | DIGITAL SYSTEM DESIGN (LM70 Temperature Monitor) | 
 
 ### Projects & Designs
