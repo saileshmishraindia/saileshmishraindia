@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Sailesh Mishra (@saileshmishraindia)
 
-- 🎓 **VLSI Trainee** @ Sevya Multimedia, Advanced VLSI Lab, Silicon University
+- 🎓 **VLSI Design Engineer** @ Sevya Multimedia Technologies Pvt Ltd, Launch Lab, Sillicon Hills, Bhubaneswar, Odisha.
 - 📘 **Education**: B.Tech in Electronics and Communication Engineering, specialization in Microelectronics & VLSI (ECE), 2021-2025, Silicon University
 - 🌍 **Location**: [Silicon University](https://www.linkedin.com/school/silicontech-bbs/), Bhubaneswar, Odisha 751024.
 - 📫 **Email**: [saileshmishraofficial@gmail.com](mailto:saileshmishra164@gmail.com)
