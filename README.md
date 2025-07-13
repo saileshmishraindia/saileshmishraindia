@@ -28,7 +28,7 @@
 
 - During my **Third Year**, I specialized in Digital System Verification, focusing on SystemVerilog implementation. I implemented Boolean logic circuits and simulated analog CMOS circuits using open source tools like Sue2 , Cpp sim view , Xilinx ISE Suite (VHDL) and EDA Playground. A significant achievement was developing a comprehensive testbench for APB protocol verification, where I successfully validated both master and slave interfaces. I implemented advanced SystemVerilog concepts including events, packets, and object-oriented programming features to create robust verification environments. Working with real-world protocols like AMBA APB, AHB, ASB, AXB and industry specifications enhanced my understanding of modern verification methodologies.
 
-- In my **Final Year**, 
+- In my **Final Year**, I enrolled myself in a industry internship/Practive school in Sevya Multimedia Technologies Pvt Ltd and explored the field of VLSI building real-life projects, learning advance analog design concepts such as BGR, Current Mirrors, Layouts of active and passive components/devices such as Resistors, Capacitors, Diodes, Bipolars & MOSFETs. I was assigned a Digital System Design project based on LM70 Temperarature sensor based on SPI protocol for communication with RP-2040 MCU. I did layouts of basic logic gates and understood more about Active devices, IC Fabrication process & everything from die to a complete electronics system. 
 
 ### Skills
 - **Tools** </br>
