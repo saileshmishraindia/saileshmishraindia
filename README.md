@@ -61,7 +61,7 @@
 
 Some of the major projects that i have done in my academic career are :
 
-  [**1. APB PROTOCOL**] </br>
+  **1. APB PROTOCOL** </br>
 
 - Developed a UVM-based testbench for APB Protocol verification.
 - Designed and integrated UVM components (agents, drivers, monitors, scoreboards, coverage models).
@@ -70,7 +70,7 @@ Some of the major projects that i have done in my academic career are :
 - Debugged RTL issues by analyzing test failures and refining the testbench.
 
   
-[**2. IoT Based Smart Hydroponics System**] </br>
+**2. IoT Based Smart Hydroponics System** </br>
 
 - Developed fully automated IoT-integrated hydroponics system using RPi 4B & Python . 
 - Implemented smart NPK reservoir management for nutrient balance.
@@ -79,7 +79,7 @@ Some of the major projects that i have done in my academic career are :
 - Created mobile interface (Blynk App.) for remote system management.
 
 
-[**3. CUBESat**] </br>
+**3. CUBESat** </br>
 
 - Setting up LoRa communication on ESP32 for reliable data links.
 - Designing and simulating antennas with practical tuning using a VNA. 
@@ -87,14 +87,14 @@ Some of the major projects that i have done in my academic career are :
 - Designing and tuning a custom antenna for optimal ground station performance.
 
   
-[**4. FSM Design**] </br>
+**4. FSM Design** </br>
 
 - Developed a Traffic Lights Controller using Verilog.
 - Implemented a Vending Machine using Verilog. 
 - Designed an Electronic Lock System using Verilog.
 
 
-[**5. ALU Design**] </br>
+**5. ALU Design** </br>
 
 - Designed a 1-Bit ALU using CircuitVerse.
 - Expanded the design to a 4-Bit ALU using CircuitVerse. 
